@@ -43,11 +43,11 @@ The model training graph is show below
 # Model Performance Testing
 An example of the models performance is given post training, with the following test case
 
-
+Given the following blurry input image:
 ![Input Image](https://github.com/DhananjayAshok/MATLAB-YOLO-ObjectDetection/blob/master/cars.jpg?raw=true)
 
 
-
+The model produces the following boxes
 ![Model Output](https://github.com/DhananjayAshok/MATLAB-YOLO-ObjectDetection/blob/master/Prediction.jpg?raw=true)
 
 

@@ -38,12 +38,12 @@ The following architecture was used in the project
 
 # Model Training Summary
 The model training graph is show below
-![Training Loss over Epochs](https://github.com/DhananjayAshok/MATLAB-YOLO-ObjectDetection/Training.jpg?raw=true)
+![Training Loss over Epochs](https://github.com/DhananjayAshok/MATLAB-YOLO-ObjectDetection/blob/master/Training.jpg?raw=true)
 
 # Model Performance Testing
 An example of the models performance is given post training, with the following test case
-![Input Image](https://github.com/DhananjayAshok/MATLAB-YOLO-ObjectDetection/cars.jpg?raw=true)
+![Input Image](https://github.com/DhananjayAshok/MATLAB-YOLO-ObjectDetection/blob/master/cars.jpg?raw=true)
 
-![Model Output](https://github.com/DhananjayAshok/MATLAB-YOLO-ObjectDetection/prediction.jpg?raw=true)
+![Model Output](https://github.com/DhananjayAshok/MATLAB-YOLO-ObjectDetection/blob/master/prediction.jpg?raw=true)
 
 
